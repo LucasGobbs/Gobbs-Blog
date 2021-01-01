@@ -7,9 +7,9 @@ url: "https://lucasgobbs.github.io/Gobbs-Blog/" # for test: remove string 'http:
 # User settings
 username: lorem ipsum
 user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
+email: llcostagobbi@gmail.com
 twitter_username: loremipsum
-github_username:  loremipsum
+github_username:  lucasgobbs
 gplus_username:  loremipsum
 linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: loremipsum
@@ -47,7 +47,7 @@ links:
       key_trigger: 5
   section_2:
     - title: github
-      url: http://www.github.com/victorvoid
+      url: http://www.github.com/lucasgobbs
       new_tab: true
       key_trigger: g
     - title: twitter
